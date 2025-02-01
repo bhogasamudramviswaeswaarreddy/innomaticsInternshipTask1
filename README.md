@@ -3,7 +3,7 @@ Scenario:
 You are building a simple personal budget tracker to help users manage their monthly
 expenses. The tracker will allow users to input their income and expenses, categorize them, and
 view a summary in a table format. This project will help you practice using HTML tags such as
-headings, paragraphs, lists, tables, forms, and semantic tags, while also organizing content
+headings, paragraphs, lists, tables, forms, and semantic tags, while also organizing content               
 effectively.
 Requirements:
 1.​ HTML Structure:
